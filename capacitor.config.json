@@ -1,0 +1,6 @@
+{
+  "appId": "com.mohamedmorjane.effective",
+  "appName": "Effective",
+  "webDir": ".",
+  "bundledWebRuntime": false
+}
